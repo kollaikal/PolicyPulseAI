@@ -45,8 +45,4 @@ Additional Notes:
 - The app is modular, allowing future updates with new APIs or models.
 - Any "__MACOSX" folders were automatically created and can be ignored or deleted.
 
-Team Members:
--------------
-Rupesh, Emma, Mandovi, Afnan, Guangwei
-
 Thank you for reviewing our project!
