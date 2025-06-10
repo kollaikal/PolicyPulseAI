@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+openai
+tiktoken
+pandas
+altair
+scikit-learn
+pyspark
+requests
+mistralai
+python-dotenv
